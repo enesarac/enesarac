@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">"Computer Engineer at Kayseri University"</h3>
 
-- 🔭 I’m currently working on **Ai therapy**
-
-- 🌱 I’m currently learning **flutter,C#**
+- 🔭 I’m currently working on **Machine Learning,LLMOps,C# ADO.Net**
 
 - 📫 How to reach me **enesarac@outlook.com.tr**
 
